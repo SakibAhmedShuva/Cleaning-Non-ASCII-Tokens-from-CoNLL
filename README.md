@@ -32,7 +32,7 @@ cd CoNLL-Non-ASCII-Tokens-Cleaner
 jupyter notebook
 ```
 
-2. Open `clean_conll.ipynb`
+2. Open `conll_cleaner.ipynb`
 
 3. Update the file path in the second cell to point to your CoNLL file:
 ```python
