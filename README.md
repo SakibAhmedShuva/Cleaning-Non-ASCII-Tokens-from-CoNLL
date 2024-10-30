@@ -92,3 +92,7 @@ This project is open source and available under the [MIT License](LICENSE).
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+Screenshot:
+![image](https://github.com/user-attachments/assets/94cc6615-1e6d-4957-b866-4678132ef82a)
+
